@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oondraa
 - 👀 I’m interested in technology (New tech, PC build, 3D print, AI, New projects, Arduino, and others..)
-- 🌱 I’m currently learning 3D modeling and arduino
-- 💞️ I’m looking to collaborate on some projects
+- 🌱 I’m currently learning 3D modeling, arduino and my own LLM
+- 🤝 I’m looking to collaborate on some projects
 - 📫 How to reach me just type me dm
