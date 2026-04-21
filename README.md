@@ -9,7 +9,7 @@ I'm a tech enthusiast deeply invested in the intersection of hardware and softwa
 
 - 🛠️ **Hardware:** 3D printing, PC building, and microcontroller projects (ESP32/Arduino).
 - 🧠 **AI/ML:** Currently focused on developing and fine-tuning my own LLM.
-- 🤝 **Collaboration:** Always open to interesting Open Source projects.
+- 🤝 **Collaboration:** Always open to interesting projects.
 
 ---
 
@@ -31,5 +31,3 @@ I'm a tech enthusiast deeply invested in the intersection of hardware and softwa
 </p>
 
 ---
-height="30" width="40" /></a>
-</p>
