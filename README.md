@@ -31,20 +31,5 @@ I'm a tech enthusiast deeply invested in the intersection of hardware and softwa
 </p>
 
 ---
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oondraa&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oondraa&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oondraa&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 📫 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oondraa" height="30" width="40" /></a>
+height="30" width="40" /></a>
 </p>
