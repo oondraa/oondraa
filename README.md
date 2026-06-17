@@ -4,16 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=oondraa&label=Profile%20views&color=0e75b6&style=flat" alt="oondraa" />
 </p>
 
-### ⚡ About Me
+###  About Me
 I'm a tech enthusiast deeply invested in the intersection of hardware and software. From building PCs to training AI, I love exploring how things work under the hood.
 
-- 🛠️ **Hardware:** 3D printing, PC building, and microcontroller projects (ESP32/Arduino).
-- 🧠 **AI/ML:** Currently focused on developing and fine-tuning my own LLM.
-- 🤝 **Collaboration:** Always open to interesting projects.
+-  **Hardware:** 3D printing, PC building, and microcontroller projects (ESP32/Arduino).
+-  **AI/ML:** Currently focused on developing and fine-tuning my own LLM.
+-  **Collaboration:** Always open to interesting projects.
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 #### 💻 Languages
 <p align="left">
