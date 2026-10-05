@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ondra
 
-🏷️ **Brand Lead at OZDIGITAL**
+🏷️ **Brand Lead at [OZDIGITAL](https://oondraa.pages.dev/)**
 
 I build things where software meets hardware: desktop apps, data dashboards, PLC tooling and the occasional 3D-printed part.
 
