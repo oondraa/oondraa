@@ -8,18 +8,19 @@ I build things where software meets hardware: desktop apps, data dashboards, PLC
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**OpenSISAKHK**](https://github.com/oondraa/OpenSISAKHK) | The school information system, rebuilt for the phone: live timetable, grades, absence vs. the 30 % limit, gym occupancy, canteen lunches and push notifications · [app](https://opensisakhk.opensisakhk.workers.dev) | TypeScript, React, Cloudflare Workers |
 | [**OZBEAT**](https://github.com/oondraa/OZBEAT) | Music visualizer & screensaver for Windows: cover art, synced lyrics, GPU visuals · [website](https://oondraa.github.io/OZBEAT/) | Rust, WGSL |
 | [**Spotify Live Wrapped**](https://github.com/oondraa/spotify-live-wrapped) | Self-hosted 24/7 “Spotify Wrapped”: collector + live stats dashboard | Python |
-| [**kybernaGym**](https://github.com/oondraa/kybernaGym) | School gym occupancy from the timetable: OCR pipeline + GitHub Actions + static web | Python, JS |
+| [**kybernaGym**](https://github.com/oondraa/kybernaGym) | School gym occupancy from the timetable: OCR pipeline + GitHub Actions + static web (grew into OpenSISAKHK) | Python, JS |
 | [**PLC Fountain Generator**](https://github.com/oondraa/PFG---PLC-Fountain-Generator) | Desktop app that generates fountain shows in Structured Text | PLC / ST |
 
 ### 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,python,js,html,css,cpp" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,python,js,react,html,css,cpp" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,linux,vscode,visualstudio,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,cloudflare,linux,vscode,visualstudio,arduino" />
   <img src="https://img.shields.io/badge/Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" height="48" valign="top" />
 </p>
 
