@@ -56,6 +56,18 @@ Outside the editor: 3D printing · PC building · ESP32 / Arduino
       <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/tv.svg?color=%23a78bfa&height=20" height="20" align="top" /> <a href="https://github.com/oondraa/OpenSosacTV">OpenSosacTV</a></h3>
+      Unofficial client for Sosáč and Streamuj.tv, in two flavours with the same features and no server of its own: an installable web app for phone, tablet and browser, and a native Windows app.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/egui-5b21b6?style=flat-square" />
+      <img src="https://img.shields.io/badge/WebView2-0078D4?style=flat-square&logo=microsoftedge&logoColor=white" />
+      <br/><a href="https://oondraa.github.io/OpenSosacTV/">→ Web app</a> · <a href="https://github.com/oondraa/OpenSosacTV/releases/latest/download/OpenSosacTV.exe">→ Download for Windows</a>
+    </td>
+  </tr>
 </table>
 
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23a78bfa&height=24" height="24" align="top" /> Tech stack
