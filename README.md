@@ -13,17 +13,17 @@
 
 </div>
 
-## 👋 About me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%23a78bfa&height=24" height="24" align="top" /> About me
 
 I build things where **software meets hardware**: desktop apps, data dashboards, PLC tooling and the occasional 3D-printed part.
-Outside the editor: 🖨️ 3D printing · 🖥️ PC building · 🔌 ESP32 / Arduino
+Outside the editor: 3D printing · PC building · ESP32 / Arduino
 
-## 🚀 Featured projects
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a78bfa&height=24" height="24" align="top" /> Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/oondraa/OpenSISAKHK">OpenSISAKHK</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/smartphone.svg?color=%23a78bfa&height=20" height="20" align="top" /> <a href="https://github.com/oondraa/OpenSISAKHK">OpenSISAKHK</a></h3>
       The school information system, rebuilt for the phone: live timetable, grades, absence vs. the 30&nbsp;% limit, gym occupancy, canteen lunches and push notifications.
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -32,7 +32,7 @@ Outside the editor: 🖨️ 3D printing · 🖥️ PC building · 🔌 ESP32 / A
       <br/><a href="https://opensisakhk.opensisakhk.workers.dev">→ Open the app</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/oondraa/OZBEAT">OZBEAT</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/audio-lines.svg?color=%23a78bfa&height=20" height="20" align="top" /> <a href="https://github.com/oondraa/OZBEAT">OZBEAT</a></h3>
       Music visualizer &amp; screensaver for Windows: cover art, synced lyrics and smooth GPU visuals for whatever is playing.
       <br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -42,14 +42,14 @@ Outside the editor: 🖨️ 3D printing · 🖥️ PC building · 🔌 ESP32 / A
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/oondraa/spotify-live-wrapped">Spotify Live Wrapped</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/chart-no-axes-column.svg?color=%23a78bfa&height=20" height="20" align="top" /> <a href="https://github.com/oondraa/spotify-live-wrapped">Spotify Live Wrapped</a></h3>
       Self-hosted 24/7 “Spotify Wrapped”: listening-history collector + live stats dashboard.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🪟 <a href="https://github.com/oondraa/ClaudeHUD">ClaudeHUD</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/app-window.svg?color=%23a78bfa&height=20" height="20" align="top" /> <a href="https://github.com/oondraa/ClaudeHUD">ClaudeHUD</a></h3>
       A glassy island in the bottom-right corner of Windows that keeps an eye on your Claude Code sessions.
       <br/><br/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -58,7 +58,7 @@ Outside the editor: 🖨️ 3D printing · 🖥️ PC building · 🔌 ESP32 / A
   </tr>
 </table>
 
-## 🛠️ Tech stack
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23a78bfa&height=24" height="24" align="top" /> Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,ts,python,js,react,html,css,cpp&theme=dark" /><br/>
@@ -66,7 +66,7 @@ Outside the editor: 🖨️ 3D printing · 🖥️ PC building · 🔌 ESP32 / A
   <img src="https://img.shields.io/badge/Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" height="48" valign="top" />
 </p>
 
-## 📈 Activity
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%23a78bfa&height=24" height="24" align="top" /> Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=oondraa&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
@@ -80,7 +80,7 @@ Outside the editor: 🖨️ 3D printing · 🖥️ PC building · 🔌 ESP32 / A
   </picture>
 </p>
 
-## 📫 Reach me
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%23a78bfa&height=24" height="24" align="top" /> Reach me
 
 Open to interesting projects. Feel free to open an issue, or check out my [portfolio](https://oondraa.pages.dev/) or [OZDIGITAL](https://ozdigital.pages.dev/).
 
