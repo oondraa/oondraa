@@ -5,7 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Where+software+meets+hardware;Desktop+apps+%C2%B7+dashboards+%C2%B7+PLC+tooling;Rust+%C2%B7+TypeScript+%C2%B7+Python;Occasionally+3D-printing+things" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://oondraa.pages.dev/"><img src="https://img.shields.io/badge/OZDIGITAL-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://oondraa.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://ozdigital.pages.dev/"><img src="https://img.shields.io/badge/OZDIGITAL-2e1065?style=for-the-badge&logo=cloudflarepages&logoColor=white" /></a>
   <a href="https://github.com/oondraa?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=oondraa&style=for-the-badge&color=5b21b6&label=Profile+views" />
 </p>
@@ -55,21 +56,6 @@ Outside the editor: 🖨️ 3D printing · 🖥️ PC building · 🔌 ESP32 / A
       <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⛲ <a href="https://github.com/oondraa/PFG---PLC-Fountain-Generator">PLC Fountain Generator</a></h3>
-      Desktop app that generates fountain shows in Structured Text.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PLC-Structured_Text-2e1065?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏋️ <a href="https://github.com/oondraa/kybernaGym">kybernaGym</a></h3>
-      School gym occupancy from the timetable: OCR pipeline + GitHub Actions + static web. Grew into OpenSISAKHK.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-    </td>
-  </tr>
 </table>
 
 ## 🛠️ Tech stack
@@ -96,6 +82,6 @@ Outside the editor: 🖨️ 3D printing · 🖥️ PC building · 🔌 ESP32 / A
 
 ## 📫 Reach me
 
-Open to interesting projects, so feel free to open an issue or reach out through [OZDIGITAL](https://oondraa.pages.dev/).
+Open to interesting projects. Feel free to open an issue, or check out my [portfolio](https://oondraa.pages.dev/) or [OZDIGITAL](https://ozdigital.pages.dev/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2e1065,100:0d1117&height=120&section=footer" width="100%" />
