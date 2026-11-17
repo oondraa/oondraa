@@ -99,10 +99,9 @@ Also: [**Spotify Live Wrapped**](https://github.com/oondraa/spotify-live-wrapped
 </picture>
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,python,js,react,html,css,cpp,git,githubactions,cloudflare,linux,vscode,visualstudio,arduino&theme=dark&perline=15" />
-    <img alt="Rust, TypeScript, Python, JavaScript, React, HTML, CSS, C++, Git, GitHub Actions, Cloudflare, Linux, VS Code, Visual Studio, Arduino" src="https://skillicons.dev/icons?i=rust,ts,python,js,react,html,css,cpp,git,githubactions,cloudflare,linux,vscode,visualstudio,arduino&theme=light&perline=15" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=rust,ts,python,js,react,html,css,cpp&theme=dark" alt="Rust, TypeScript, Python, JavaScript, React, HTML, CSS, C++" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,githubactions,cloudflare,linux,vscode,visualstudio,arduino&theme=dark" alt="Git, GitHub Actions, Cloudflare, Linux, VS Code, Visual Studio, Arduino" />
+  <img src="https://img.shields.io/badge/Inventor-1760f0?style=for-the-badge&logo=autodesk&logoColor=white" height="48" valign="top" alt="Autodesk Inventor" />
 </p>
 
 <br/>
