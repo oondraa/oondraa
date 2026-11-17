@@ -6,7 +6,7 @@
 text { font-family: G, 'Geist', system-ui, -apple-system, 'Segoe UI', sans-serif; }
 
 .fly { animation: fly 1.4s cubic-bezier(0.22,1,0.36,1) both; }
-@keyframes fly { from { transform: translateY(46px); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes fly { from { transform: translateY(46px); } to { transform: none; } }
 .cue { animation: cue 2.4s cubic-bezier(0.22,1,0.36,1) infinite; }
 @keyframes cue { 0% { transform: translateY(-20px); opacity: 0; } 30% { opacity: 1; } 100% { transform: translateY(54px); opacity: 0; } }
 @media (prefers-reduced-motion: reduce) { .fly, .cue { animation: none; } }
